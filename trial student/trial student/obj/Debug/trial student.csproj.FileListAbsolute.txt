@@ -1,0 +1,7 @@
+C:\Users\kirov\OneDrive\Desktop\trial student\trial student\bin\Debug\trial student.exe.config
+C:\Users\kirov\OneDrive\Desktop\trial student\trial student\bin\Debug\trial student.exe
+C:\Users\kirov\OneDrive\Desktop\trial student\trial student\bin\Debug\trial student.pdb
+C:\Users\kirov\OneDrive\Desktop\trial student\trial student\obj\Debug\trial student.csproj.AssemblyReference.cache
+C:\Users\kirov\OneDrive\Desktop\trial student\trial student\obj\Debug\trial student.csproj.CoreCompileInputs.cache
+C:\Users\kirov\OneDrive\Desktop\trial student\trial student\obj\Debug\trial student.exe
+C:\Users\kirov\OneDrive\Desktop\trial student\trial student\obj\Debug\trial student.pdb
